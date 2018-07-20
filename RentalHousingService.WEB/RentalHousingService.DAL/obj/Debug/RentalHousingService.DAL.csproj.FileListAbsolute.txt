@@ -1,0 +1,9 @@
+D:\elatesoftware\RentalServiceProject\RentalHousingService.WEB\RentalHousingService.DAL\bin\Debug\RentalHousingService.DAL.dll
+D:\elatesoftware\RentalServiceProject\RentalHousingService.WEB\RentalHousingService.DAL\bin\Debug\RentalHousingService.DAL.pdb
+D:\elatesoftware\RentalServiceProject\RentalHousingService.WEB\RentalHousingService.DAL\bin\Debug\Dapper.dll
+D:\elatesoftware\RentalServiceProject\RentalHousingService.WEB\RentalHousingService.DAL\bin\Debug\Dapper.xml
+D:\elatesoftware\RentalServiceProject\RentalHousingService.WEB\RentalHousingService.DAL\obj\Debug\RentalHousingService.DAL.csprojAssemblyReference.cache
+D:\elatesoftware\RentalServiceProject\RentalHousingService.WEB\RentalHousingService.DAL\obj\Debug\RentalHousingService.DAL.csproj.CoreCompileInputs.cache
+D:\elatesoftware\RentalServiceProject\RentalHousingService.WEB\RentalHousingService.DAL\obj\Debug\RentalHousingService.DAL.csproj.CopyComplete
+D:\elatesoftware\RentalServiceProject\RentalHousingService.WEB\RentalHousingService.DAL\obj\Debug\RentalHousingService.DAL.dll
+D:\elatesoftware\RentalServiceProject\RentalHousingService.WEB\RentalHousingService.DAL\obj\Debug\RentalHousingService.DAL.pdb

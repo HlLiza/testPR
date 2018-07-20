@@ -1,0 +1,6 @@
+D:\elatesoftware\RentalServiceProject\RentalHousingService.WEB\RentalHousingService.Common\bin\Debug\RentalHousingService.Common.dll
+D:\elatesoftware\RentalServiceProject\RentalHousingService.WEB\RentalHousingService.Common\bin\Debug\RentalHousingService.Common.pdb
+D:\elatesoftware\RentalServiceProject\RentalHousingService.WEB\RentalHousingService.Common\obj\Debug\RentalHousingService.Common.csprojAssemblyReference.cache
+D:\elatesoftware\RentalServiceProject\RentalHousingService.WEB\RentalHousingService.Common\obj\Debug\RentalHousingService.Common.csproj.CoreCompileInputs.cache
+D:\elatesoftware\RentalServiceProject\RentalHousingService.WEB\RentalHousingService.Common\obj\Debug\RentalHousingService.Common.dll
+D:\elatesoftware\RentalServiceProject\RentalHousingService.WEB\RentalHousingService.Common\obj\Debug\RentalHousingService.Common.pdb

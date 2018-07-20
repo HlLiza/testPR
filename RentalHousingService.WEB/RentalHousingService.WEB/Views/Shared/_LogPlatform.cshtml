@@ -1,0 +1,15 @@
+﻿<div class="socials">
+    @{
+        if (User.Identity.IsAuthenticated)
+        {
+            <a href="#" class="fa" style="padding-top:10px;">@User.Identity.Name</a>
+            <a href="@Url.Action("LogOff","Account")" class="fa" style="padding-top:10px;"><h4>Log out</h4></a>
+        }
+        else
+        {
+            <a href="@Url.Action("Login","Account")" class="fa" style="padding-top:10px;"><h4>Log in</h4></a>
+            <a href="@Url.Action("Register","Guest")" class="fa" style="padding-top:10px;"><h4>Reg   </h4></a>
+        }
+    }
+
+</div>
